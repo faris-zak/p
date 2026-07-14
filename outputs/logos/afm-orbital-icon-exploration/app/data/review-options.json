@@ -1,0 +1,9 @@
+{
+  "preset": "image-wall",
+  "title": "AFM / Field Notes - Icon Concepts",
+  "summary": "Six favicon-first concepts derived from the portfolio's orbital-console visual system.",
+  "showCaptions": true,
+  "showControls": true,
+  "minTileWidth": 280,
+  "contactSheetOutput": "afm-icon-concepts-contact-sheet.png"
+}

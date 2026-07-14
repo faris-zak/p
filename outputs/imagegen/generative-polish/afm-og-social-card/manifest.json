@@ -1,0 +1,30 @@
+{
+  "name": "AFM Orbital Field Journal social preview",
+  "status": "publish-ready",
+  "dimensions": {
+    "width": 1200,
+    "height": 630
+  },
+  "copy": {
+    "name": "AL-FARIS MUJAHID ALZAKWANI",
+    "eyebrow": "ORBITAL FIELD JOURNAL / 2026",
+    "description": "Omani physics student, front-end engineer, AI-agent builder, and aspiring astronaut exploring rocket science and space systems.",
+    "fields": "PHYSICS · SOFTWARE · AI · LEADERSHIP · SPACE"
+  },
+  "exports": [
+    "full/og-image.png",
+    "full/og-image.svg"
+  ],
+  "published_paths": [
+    "space-portfolio/assets/og-image.png",
+    "space-portfolio/assets/og-image.svg"
+  ],
+  "metadata_owner": "space-portfolio/index.html",
+  "canonical_url": "https://faris-zak.github.io/P/space-portfolio/",
+  "image_url": "https://faris-zak.github.io/P/space-portfolio/assets/og-image.png",
+  "provenance": {
+    "logo": "User-selected Ascent Window identity direction",
+    "layout_and_text": "Deterministic SVG composition",
+    "raster_export": "Chromium render of the deterministic SVG master"
+  }
+}

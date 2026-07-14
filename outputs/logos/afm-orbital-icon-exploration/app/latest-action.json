@@ -1,0 +1,14 @@
+{
+  "id": "review-renderer-materialized",
+  "action": "write_moodboard_widget_payload",
+  "label": "Materialized Creative Production image review",
+  "createdAt": "2026-07-14T10:32:13.556966Z",
+  "timestamp": "2026-07-14T10:32:13.556966Z",
+  "title": "AFM / Field Notes - Icon Concepts",
+  "summary": "Six favicon-first concepts derived from the portfolio's orbital-console visual system.",
+  "itemCount": 6,
+  "runDirectory": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app",
+  "streamPath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\data\\stream.json",
+  "runStatePath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\run-state.json",
+  "latestActionPath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\latest-action.json"
+}

@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "runDirectory": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app",
+  "streamPath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\data\\stream.json",
+  "runStatePath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\run-state.json",
+  "latestActionPath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\latest-action.json",
+  "paths": {
+    "streamPath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\data\\stream.json",
+    "runStatePath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\run-state.json",
+    "latestActionPath": "D:\\Cloned GitHub repo\\P\\outputs\\logos\\afm-orbital-icon-exploration\\app\\latest-action.json"
+  },
+  "itemCount": 6,
+  "items": [
+    {
+      "id": "afm-orbital-monogram",
+      "title": "Orbital Monogram",
+      "caption": "AFM initials carried by one orbital gesture.",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/afm-orbital-monogram.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/afm-orbital-monogram.jpg",
+      "sourceImageUrl": "/generated/afm-orbital-monogram.png"
+    },
+    {
+      "id": "launch-vector-a",
+      "title": "Launch Vector A",
+      "caption": "An implied A built from ascent geometry.",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/launch-vector-a.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/launch-vector-a.jpg",
+      "sourceImageUrl": "/generated/launch-vector-a.png"
+    },
+    {
+      "id": "trajectory-core",
+      "title": "Trajectory Core",
+      "caption": "The site's orbital console reduced to one symbol.",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/trajectory-core.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/trajectory-core.jpg",
+      "sourceImageUrl": "/generated/trajectory-core.png"
+    },
+    {
+      "id": "mission-patch-afm",
+      "title": "Mission Patch",
+      "caption": "A personal mission archive expressed as a badge.",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/mission-patch-afm.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/mission-patch-afm.jpg",
+      "sourceImageUrl": "/generated/mission-patch-afm.png"
+    },
+    {
+      "id": "signal-beacon",
+      "title": "Signal Beacon",
+      "caption": "A live telemetry signal with a subtle F gesture.",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/signal-beacon.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/signal-beacon.jpg",
+      "sourceImageUrl": "/generated/signal-beacon.png"
+    },
+    {
+      "id": "ascent-window",
+      "title": "Ascent Window",
+      "caption": "A quiet aperture crossed by an upward trajectory.",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/ascent-window.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/ascent-window.jpg",
+      "sourceImageUrl": "/generated/ascent-window.png"
+    }
+  ],
+  "visibleItemIds": [
+    "afm-orbital-monogram",
+    "launch-vector-a",
+    "trajectory-core",
+    "mission-patch-afm",
+    "signal-beacon",
+    "ascent-window"
+  ],
+  "hiddenImageIds": [],
+  "selectedImageIds": [],
+  "currentImageId": "afm-orbital-monogram",
+  "updatedAt": "2026-07-14T10:32:13.556966Z"
+}

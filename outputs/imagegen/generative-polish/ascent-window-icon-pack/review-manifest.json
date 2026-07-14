@@ -1,0 +1,34 @@
+[
+  {
+    "id": "png-dark",
+    "index": 1,
+    "title": "PNG - Dark Background",
+    "src": "full/png/ascent-window-dark.png",
+    "href": "full/png/ascent-window-dark.png",
+    "caption": "Original selected 1254 px raster."
+  },
+  {
+    "id": "png-transparent",
+    "index": 2,
+    "title": "PNG - Transparent",
+    "src": "full/png/ascent-window-transparent.png",
+    "href": "full/png/ascent-window-transparent.png",
+    "caption": "Edge-cleaned transparent 1254 px raster."
+  },
+  {
+    "id": "svg-dark",
+    "index": 3,
+    "title": "SVG - Dark Background",
+    "src": "preview-svg-dark.png",
+    "href": "full/svg/ascent-window-dark.svg",
+    "caption": "Editable vector reconstruction with portfolio background."
+  },
+  {
+    "id": "svg-transparent",
+    "index": 4,
+    "title": "SVG - Transparent",
+    "src": "preview-svg-transparent.png",
+    "href": "full/svg/ascent-window-transparent.svg",
+    "caption": "Editable vector reconstruction without a background."
+  }
+]

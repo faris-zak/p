@@ -1,0 +1,8 @@
+{
+  "preset": "image-wall",
+  "title": "Ascent Window Icon Pack",
+  "summary": "Dark and transparent PNG and SVG masters for AFM / Field Notes.",
+  "showCaptions": true,
+  "minTileWidth": 320,
+  "contactSheetOutput": "ascent-window-icon-pack-preview.png"
+}

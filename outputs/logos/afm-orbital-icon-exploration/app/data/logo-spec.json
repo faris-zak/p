@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "AFM Orbital Field Journal icon exploration",
+    "stage": "Logo exploration",
+    "brand_name": "AFM / Field Notes",
+    "anchor": "Personal portfolio for Al-Faris Mujahid AlZakwani, an Omani physics student, front-end engineer, AI-agent builder, and aspiring astronaut",
+    "summary": "Explore favicon-first identity marks that feel native to the portfolio's dark orbital-console interface.",
+    "base_asset": "D:\\Cloned GitHub repo\\P\\space-portfolio\\assets\\rocket-cursor.png",
+    "base_asset_url": "/data/base_asset.png"
+  },
+  "constraints": {
+    "preserve": [
+      "AFM personal identity",
+      "space, physics, trajectory, and systems-thinking context",
+      "site palette: ink #060b18, cyan #86e5e0, amber #f4b860, blue #7999ff, paper #eef4f1",
+      "sparse telemetry geometry and technical precision",
+      "strong silhouette at 16 px, 32 px, and 64 px"
+    ],
+    "avoid": [
+      "NASA or government-agency imitation",
+      "national flags or official emblems",
+      "detailed shuttle illustration",
+      "gradients that destroy favicon clarity",
+      "tiny lettering, taglines, mockups, watermarks, or decorative background scenes"
+    ]
+  },
+  "routes": [
+    {
+      "id": "afm-orbital-monogram",
+      "label": "Orbital Monogram",
+      "family": "monogram",
+      "usage_contexts": [
+        "favicon",
+        "browser tab",
+        "social avatar",
+        "website header"
+      ],
+      "prompt": "Create one original favicon-first logo icon for AFM / Field Notes, the personal portfolio of an aspiring astronaut, physics student, front-end engineer, and AI-agent builder. Direction: a highly simplified AFM monogram built from one continuous orbital line, with the crossbar or terminal becoming a small amber trajectory node. Geometric, precise, sparse, technical, and unmistakable at 16 px. Use a square dark ink #060b18 canvas, primary cyan #86e5e0 strokes, one small amber #f4b860 accent, optional off-white #eef4f1. Flat vector-like graphic, centered, generous negative space, no wordmark, no tiny text, no gradients, no mockup, no border label, no NASA styling, no detailed rocket.",
+      "rationale": "Connects the owner's initials directly to the orbital visual language already used throughout the interface.",
+      "best_for": "A distinctive personal identity that can live in the browser tab and header.",
+      "decision_advice": "Choose this if recognizability of AFM matters more than an explicit rocket symbol.",
+      "watch_out": "The letter construction must remain readable without becoming busy.",
+      "next_step": "Redraw the selected monogram on a strict grid and test at 16 px.",
+      "final_owner": "external-production-identity",
+      "next_prompt_hints": []
+    },
+    {
+      "id": "launch-vector-a",
+      "label": "Launch Vector A",
+      "family": "geometric",
+      "usage_contexts": [
+        "favicon",
+        "app icon",
+        "portfolio signature"
+      ],
+      "prompt": "Create one original favicon-first logo icon for AFM / Field Notes. Direction: a minimal capital A suggested by two launch-vector lines and a small ascending capsule or arrow cut from negative space; include a single orbit arc crossing the lower third and one amber telemetry node. It should feel like a mission-navigation instrument, not a generic tech logo. Square dark ink #060b18 canvas, cyan #86e5e0 structure, amber #f4b860 accent, optional blue #7999ff secondary detail. Flat vector-like geometry, bold simple silhouette, centered, no letters besides the implied A, no words, no gradients, no mockup, no NASA styling, no detailed rocket.",
+      "rationale": "Turns the first initial into a launch trajectory without relying on literal illustration.",
+      "best_for": "A dynamic, memorable icon with a clear upward-motion cue.",
+      "decision_advice": "Choose this if the astronaut path should be immediately felt while keeping the mark abstract.",
+      "watch_out": "Avoid looking like a generic navigation or crypto logo.",
+      "next_step": "Simplify to two stroke weights and verify the negative-space A at favicon size.",
+      "final_owner": "external-production-identity",
+      "next_prompt_hints": []
+    },
+    {
+      "id": "trajectory-core",
+      "label": "Trajectory Core",
+      "family": "symbol",
+      "usage_contexts": [
+        "favicon",
+        "navigation mark",
+        "mission dashboard motif"
+      ],
+      "prompt": "Create one original favicon-first logo icon for AFM / Field Notes. Direction: a compact central mission core with three asymmetrical orbital arcs and one outward launch vector, echoing a trajectory console. The core may subtly suggest the initials AFM through three radial segments but must work as a pure symbol. Square dark ink #060b18 canvas, cyan #86e5e0 arcs, amber #f4b860 launch node, restrained blue #7999ff secondary vector, off-white #eef4f1 core. Flat vector-like graphic, technical and sparse, strong at 16 px, centered, no text, no gradients, no mockup, no NASA imitation, no detailed spacecraft.",
+      "rationale": "Directly translates the site's interactive trajectory-console language into a compact brand symbol.",
+      "best_for": "The closest visual match to the current interface system.",
+      "decision_advice": "Choose this if system coherence matters more than literal initials.",
+      "watch_out": "Too many orbital arcs can collapse into visual noise at small sizes.",
+      "next_step": "Reduce the selected construction to a maximum of four primary shapes.",
+      "final_owner": "external-production-identity",
+      "next_prompt_hints": []
+    },
+    {
+      "id": "mission-patch-afm",
+      "label": "Mission Patch",
+      "family": "heritage",
+      "usage_contexts": [
+        "profile avatar",
+        "project cover",
+        "favicon",
+        "print patch"
+      ],
+      "prompt": "Create one original mission-patch-inspired icon for AFM / Field Notes, optimized first for favicon use. Direction: a restrained circular badge with a simplified AFM monogram at the center, one diagonal orbital path, and one amber star-like telemetry point. Contemporary scientific field-journal character, not military and not an agency seal. Square dark ink #060b18 canvas; off-white #eef4f1 and cyan #86e5e0 linework; one amber #f4b860 accent. Flat vector-like graphic, thick enough for 16 px, minimal internal detail, no surrounding words, no dates, no flags, no official seal language, no gradients, no mockup, no NASA imitation.",
+      "rationale": "Adds the emotional usefulness of a mission patch while staying within the site's quiet technical style.",
+      "best_for": "A versatile identity that can extend beyond the website into presentations and physical items.",
+      "decision_advice": "Choose this if the portfolio should feel like an evolving personal mission archive.",
+      "watch_out": "Circular badges can feel institutional or generic if the center is not distinctive.",
+      "next_step": "Develop a core badge and a simplified favicon submark from the same geometry.",
+      "final_owner": "external-production-identity",
+      "next_prompt_hints": []
+    },
+    {
+      "id": "signal-beacon",
+      "label": "Signal Beacon",
+      "family": "tech",
+      "usage_contexts": [
+        "favicon",
+        "loading state",
+        "audio control",
+        "social avatar"
+      ],
+      "prompt": "Create one original favicon-first logo icon for AFM / Field Notes. Direction: a minimal telemetry beacon made from a bright central dot, two incomplete orbital rings, and a single diagonal signal line that subtly forms an F. The mark should feel like a live spacecraft signal received by a calm scientific interface. Square dark ink #060b18 canvas, cyan #86e5e0 rings, amber #f4b860 core or node, optional off-white #eef4f1 line. Flat vector-like graphic, restrained glow only if it survives small sizes, centered, bold negative space, no text, no gradients, no mockup, no radio-tower cliché, no NASA styling.",
+      "rationale": "Builds from the site's signal ribbon, status dots, and 'channel open' language.",
+      "best_for": "An icon that can animate elegantly in the interface while remaining static-friendly.",
+      "decision_advice": "Choose this if the digital systems and AI side should balance the space theme.",
+      "watch_out": "It must avoid reading as Wi-Fi or podcast branding.",
+      "next_step": "Prototype a subtle two-state pulse animation after the static mark is finalized.",
+      "final_owner": "external-production-identity",
+      "next_prompt_hints": []
+    },
+    {
+      "id": "ascent-window",
+      "label": "Ascent Window",
+      "family": "premium",
+      "usage_contexts": [
+        "favicon",
+        "header signature",
+        "portfolio cover",
+        "social avatar"
+      ],
+      "prompt": "Create one original favicon-first logo icon for AFM / Field Notes. Direction: an extremely restrained abstract ascent window: a rounded-square or open-frame aperture cut by one elegant upward orbital curve, with a tiny amber destination node. The negative space may subtly suggest a P for portfolio or an A for Al-Faris without forcing legibility. Quiet, editorial, scientific, premium, and compatible with Space Grotesk and IBM Plex Mono. Square dark ink #060b18 canvas, mostly off-white #eef4f1 and cyan #86e5e0 with one amber #f4b860 accent. Flat vector-like graphic, minimal shapes, strong silhouette, no text, no gradients, no mockup, no space-agency styling, no literal rocket.",
+      "rationale": "Tests the most refined and least literal expression of the portfolio's trajectory theme.",
+      "best_for": "A mature long-term personal brand that will not age with a single career label.",
+      "decision_advice": "Choose this if timelessness and visual restraint are more important than explicit space symbolism.",
+      "watch_out": "The abstraction needs one ownable geometric gesture to avoid blandness.",
+      "next_step": "Tune the aperture proportions and create light/dark one-color variants.",
+      "final_owner": "external-production-identity",
+      "next_prompt_hints": []
+    }
+  ],
+  "handoff": {
+    "default_owner": "external-production-identity",
+    "next_prompt_hints": []
+  }
+}

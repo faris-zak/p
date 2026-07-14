@@ -1,0 +1,68 @@
+[
+  {
+    "id": "afm-orbital-monogram",
+    "index": 1,
+    "title": "Orbital Monogram",
+    "family": "monogram",
+    "src": "generated/afm-orbital-monogram.png",
+    "href": "generated/afm-orbital-monogram.png",
+    "caption": "AFM initials carried by one orbital gesture.",
+    "best_for": "Personal identity, favicon, browser tab, and header.",
+    "watch_out": "Needs simplification before final 16 px use."
+  },
+  {
+    "id": "launch-vector-a",
+    "index": 2,
+    "title": "Launch Vector A",
+    "family": "geometric",
+    "src": "generated/launch-vector-a.png",
+    "href": "generated/launch-vector-a.png",
+    "caption": "An implied A built from ascent geometry.",
+    "best_for": "A dynamic app icon and portfolio signature.",
+    "watch_out": "Must stay distinct from generic navigation marks."
+  },
+  {
+    "id": "trajectory-core",
+    "index": 3,
+    "title": "Trajectory Core",
+    "family": "symbol",
+    "src": "generated/trajectory-core.png",
+    "href": "generated/trajectory-core.png",
+    "caption": "The site's orbital console reduced to one symbol.",
+    "best_for": "Maximum visual-system coherence.",
+    "watch_out": "Reduce the number of arcs for tiny sizes."
+  },
+  {
+    "id": "mission-patch-afm",
+    "index": 4,
+    "title": "Mission Patch",
+    "family": "heritage",
+    "src": "generated/mission-patch-afm.png",
+    "href": "generated/mission-patch-afm.png",
+    "caption": "A personal mission archive expressed as a badge.",
+    "best_for": "Avatar, favicon, covers, and physical extensions.",
+    "watch_out": "The circular frame can feel institutional if overworked."
+  },
+  {
+    "id": "signal-beacon",
+    "index": 5,
+    "title": "Signal Beacon",
+    "family": "tech",
+    "src": "generated/signal-beacon.png",
+    "href": "generated/signal-beacon.png",
+    "caption": "A live telemetry signal with a subtle F gesture.",
+    "best_for": "Digital states, audio controls, favicon, and animation.",
+    "watch_out": "Avoid reading as Wi-Fi or podcast branding."
+  },
+  {
+    "id": "ascent-window",
+    "index": 6,
+    "title": "Ascent Window",
+    "family": "premium",
+    "src": "generated/ascent-window.png",
+    "href": "generated/ascent-window.png",
+    "caption": "A quiet aperture crossed by an upward trajectory.",
+    "best_for": "A mature long-term personal brand.",
+    "watch_out": "The geometry needs exact vector tuning to become ownable."
+  }
+]
